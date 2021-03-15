@@ -1,4 +1,4 @@
-/*
+
 let goOn = true
 const bucketList = []
 
@@ -10,4 +10,3 @@ while (goOn == true) {
 }
 
 console.log(bucketList)
-*/

@@ -1,4 +1,4 @@
-/*number1 = parseInt(prompt("Enter a number here"))
+number1 = parseInt(prompt("Enter a number here"))
 number2 = parseInt(prompt("Enter a second number here"))
 number3 = parseInt(prompt("Enter a third number here"))
 
@@ -11,7 +11,7 @@ let calculation = calcAvgSquare(number1, number2, number3)
 console.log(`The answer is ${calculation}`)
 
 
-*/
+
 
 
 
